@@ -1,0 +1,76 @@
+
+
+.main_logo{
+    position: fixed;
+    left: 120px;
+    top: 69px;
+    z-index: 999;
+    display: flex;
+}
+
+.top_nav {
+    position: fixed;
+    right: 129px;
+    top: 69px;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    width: 336px;
+    height: 13px;
+}
+
+
+
+#section01 .bg{
+    width: 1920px;
+    background-color: white;
+}
+
+
+#section02{
+    width: 1920px;
+}
+#section03{
+    width: 1920px;
+}
+
+#section04{
+    width: 1920px;
+
+}
+
+
+#section04 .thome {
+    position: absolute;
+left:185px;
+    top: 5489px;
+}
+#section04 .apma {
+    position: absolute;
+    left:245px;
+    top: 5996px;
+}
+#section04 .app {
+    position: absolute;
+    left:726px;
+    top: 5489px;
+}
+#section04 .moon {
+    position: absolute;
+    left:1351px;
+    top: 5489px;
+}
+#section04 .adidas {
+    position: absolute;
+    left:1351px;
+    top: 5996px;
+}
+
+#section05{
+    width: 1920px;
+}
+#section05 .be{
+    position: absolute;
+    left:1234px;
+    top:7893px;
+}
