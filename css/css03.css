@@ -1,0 +1,43 @@
+
+
+
+
+.thome {
+    width: 100vw;
+}
+
+.img {
+    position: absolute;
+    left:1124px;
+    top:19780px;
+}
+
+.home {
+    position: absolute;
+    left:1500px;
+    top:19503px;
+}
+
+.work {
+    position: absolute;
+    left:1592px;
+    top:19503px;
+}
+
+.contact {
+    position: absolute;
+    left:1698px;
+    top:19503px;
+}
+
+.be {
+    position: absolute;
+    left:264px;
+    top:20132px;
+}
+
+.arrow {
+    position: absolute;
+    left:1702px;
+    top:897px;
+}
