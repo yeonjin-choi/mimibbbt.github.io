@@ -1,0 +1,39 @@
+
+.bg {
+    width: 100vw;
+
+}
+.bg02 {
+    position: absolute;
+    width: 100vw;
+}
+
+.img {
+    position: absolute;
+   left:1124px;
+   top:31662px;
+}
+
+.home {
+    position: absolute;
+    left:1500px;
+    top:31396px;
+}
+
+.work {
+    position: absolute;
+    left:1592px;
+    top:31396px;
+}
+
+.contact {
+    position: absolute;
+    left:1698px;
+    top:31396px;
+}
+
+.be {
+    position: absolute;
+    left:276px;
+    top:32021px;
+}
