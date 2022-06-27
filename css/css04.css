@@ -1,0 +1,33 @@
+.bg {
+    width: 100vw;
+}
+
+.img {
+    position: absolute;
+    left:1124px;
+    top:27345px;
+}
+
+.home {
+    position: absolute;
+    left:1500px;
+    top:27067px;
+}
+
+.work {
+    position: absolute;
+    left:1592px;
+    top:27067px;
+}
+
+.contact {
+    position: absolute;
+    left:1698px;
+    top:27067px;
+}
+
+.be {
+    position: absolute;
+    left:264px;
+    top:27697px;
+}
